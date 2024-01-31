@@ -8,9 +8,9 @@ public class ArrayLists<S> {
 
         ArrayList<String> food = new ArrayList<String>();
 
-        food.add("pizza");
-        food.add("sushi");
-        food.add("hotdog");
+        food.add("pizza!!!");
+        food.add("sushi!!!");
+        food.add("hotdog!!!");
 
         food.set(0, "hamburger"); // endrer innholdet i AarrayList
         food.remove(2); // Fjerner innholdet
