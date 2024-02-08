@@ -12,8 +12,8 @@ public class ArrayLists<S> {
         food.add("sushi!!!");
         food.add("hotdog!!!");
 
-        food.set(0, "hamburger"); // endrer innholdet i AarrayList
-        food.remove(2); // Fjerner innholdet
+//        food.set(0, "hamburger"); // endrer innholdet i AarrayList
+//        food.remove(2); // Fjerner innholdet
 
         for (int i = 0; i < food.size(); i++) {
             System.out.println(food.get(i));
