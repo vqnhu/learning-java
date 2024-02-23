@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Static;
 
 public class Friend {
 //    static = modifier, A single copy of a variable/ method is created and shared.

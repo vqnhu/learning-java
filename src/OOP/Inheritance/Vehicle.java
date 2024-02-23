@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Inheritance;
 
 public class Vehicle {
 
@@ -11,4 +11,6 @@ public class Vehicle {
     void stop() {
         System.out.println("This vehicle has stopped");
     }
+
+
 }

@@ -1,9 +1,9 @@
-package OOP;
+package OOP.SuperClass;
 
-public class HeroPerson extends Hero {
+public class Person extends Hero {
     String power;
 
-    public HeroPerson(String name, int age, String power) {
+    public Person(String name, int age, String power) {
         super(name, age);
         this.power = power;
     }

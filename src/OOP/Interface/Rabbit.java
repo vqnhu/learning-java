@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Interface;
 
-public class IRabbit implements InterfacePrey {
+public class Rabbit implements Prey {
 
 
     @Override

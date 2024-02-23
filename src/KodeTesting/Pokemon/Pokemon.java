@@ -13,15 +13,10 @@ public class Pokemon {
         this.evolution = evolution;
     }
 
-    public Pokemon() {
-    }
-
     void pokemonCall() {
         System.out.println("Dette er " + this.name + " og det er en " + this.type + " pokemon");
         System.out.println("Pokemon nummer: " + this.number);
         System.out.println("Kan den utvikle seg? " + this.evolution);
         System.out.println();
     }
-
-
 }

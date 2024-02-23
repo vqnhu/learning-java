@@ -1,4 +1,4 @@
-package OOP;
+package OOP.MethodOverriding;
 
 public class Animal {
     void speak() {

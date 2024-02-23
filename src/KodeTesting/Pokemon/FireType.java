@@ -13,10 +13,5 @@ public class FireType {
     public void addFireType(Pokemon pokemon) {
         fireTypePokemon.add(pokemon);
     }
-
-    public void listFireType() {
-        for (Pokemon pokemon : fireTypePokemon) {
-            pokemon.pokemonCall();
-        }
-    }
 }
+

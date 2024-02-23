@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Abstract;
 
-public class AbstractCar extends AbstractVehicle {
+public class Car extends Vehicle {
 
 
     @Override
@@ -12,6 +12,5 @@ public class AbstractCar extends AbstractVehicle {
     void stop() {
         System.out.println("The driver just stopped the car");
     }
-
 
 }

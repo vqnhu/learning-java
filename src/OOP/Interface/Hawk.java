@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Interface;
 
-public class IHawk implements InterfacePredator {
+public class Hawk implements Predator {
 
     @Override
     public void hunt() {

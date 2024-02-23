@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Interface;
 
-public class IFish implements InterfacePredator, InterfacePrey {
+public class Fish implements Predator, Prey {
     @Override
     public void hunt() {
         System.out.println("This fish is hunting smaller fish");

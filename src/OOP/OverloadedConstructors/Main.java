@@ -1,6 +1,6 @@
-package OOP;
+package OOP.OverloadedConstructors;
 
-public class PizzaMain {
+public class Main {
     public static void main(String[] args) {
         Pizza pizza = new Pizza("Thin crust", "Garlic sause", "Mozzarella cheese", "Mushroom");
 

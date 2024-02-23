@@ -1,15 +1,15 @@
-package OOP;
+package OOP.Inheritance;
 
-public class VehicleMain {
+public class Main {
     public static void main(String[] args) {
         //    inheritance = the process where one class acquires,
         //                  the attributes and methods of another
 
-        VehicleCar car = new VehicleCar();
+        Car car = new Car();
 
         car.go();
 
-        VehicleBicycle bicycle = new VehicleBicycle();
+        Bicycle bicycle = new Bicycle();
         bicycle.stop();
 
         System.out.println(car.speed);

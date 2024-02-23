@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Inheritance;
 
-public class VehicleCar extends Vehicle {
+public class Car extends Vehicle {
 
     double speed = 5.5;
     int wheels = 4;

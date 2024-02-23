@@ -1,4 +1,4 @@
-package OOP;
+package OOP.SuperClass;
 
 public class Hero {
     String name;

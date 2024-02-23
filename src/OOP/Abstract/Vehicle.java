@@ -1,6 +1,6 @@
-package OOP;
+package OOP.Abstract;
 
-public abstract class AbstractVehicle {
+public abstract class Vehicle {
 
     abstract void go();
 

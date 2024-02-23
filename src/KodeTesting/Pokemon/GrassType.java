@@ -14,11 +14,4 @@ public class GrassType {
     public void addGrassType(Pokemon pokemon) {
         grassTypePokemon.add(pokemon);
     }
-
-    public void listGrassType() {
-        for (Pokemon pokemon : grassTypePokemon) {
-            pokemon.pokemonCall();
-        }
-    }
-
 }

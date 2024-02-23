@@ -13,10 +13,4 @@ public class WaterType {
     public void addWaterType(Pokemon pokemon) {
         waterTypePokemon.add(pokemon);
     }
-
-    public void listWaterType() {
-        for (Pokemon pokemon : waterTypePokemon) {
-            pokemon.pokemonCall();
-        }
-    }
 }
